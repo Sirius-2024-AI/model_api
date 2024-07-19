@@ -1,2 +1,4 @@
 backend/scr/CONFIG.py
 *.ipynb
+.idea
+.venv
